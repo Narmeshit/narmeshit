@@ -1,7 +1,7 @@
 - 👋 Hola, soy @narmeshit
-- 👀 Estoy interesado en crear varios MPV para diferentes Startups
+- 👀 Estoy interesado en crear MPV para diferentes Startups del mercado
 - 🌱 Actualmente estoy trabajando en ello
-- 💞️ Busco colaborar en varios proyectos de emprendimientos
+- 💞️ Busco colaborar en diferentes Startup del mercado
 - 📫 Cómo contactarme narmeshit@gmail.com
 - 😄 Pronombres: narmeshit
 - ⚡ Dato curioso: Todo es posible en esta vida, el exito viene solo, centrate en el proceso.
