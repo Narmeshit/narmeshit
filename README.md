@@ -2,7 +2,7 @@
 
 Software Developer
 
-## Habilidades y Tecnologías
+## Conocimientos
 
 - **Lenguajes de Programación:** Dart, Java, Python, JavaScript, Goland, PHP, C#
 - **Frameworks y Librerías:** Flutter, Spring Boot, Django, Node.js, Gin, Laravel, .NET
