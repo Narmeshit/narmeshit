@@ -1,5 +1,3 @@
-# ¡Hola! Soy Narmeshit👋
-
 Systems Engineer, in my spare time Freelance Developer
 
 - **Programming Languages:** Dart, Java, Python, JavaScript, Goland, PHP, C#
