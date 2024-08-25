@@ -1,6 +1,6 @@
 # ¡Hola! Soy Narmeshit👋
 
-Soy una ingeniera de sistemas con experiencia en desarrollo frontend, backend y fullstack. Me apasiona crear soluciones tecnológicas innovadoras y tengo un interés particular en crear una comunidad firme para el futuro que se acerca.
+Software Developer
 
 ## Habilidades y Tecnologías
 
