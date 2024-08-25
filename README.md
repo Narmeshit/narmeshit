@@ -6,4 +6,4 @@ Software Developer
 - **Frameworks y Librerías:** Flutter, Spring Framework, Django, Node.js, Gin, Laravel, .NET
 - **Bases de Datos:** SQLite, MongoDB, MySQL, SQL Server
 - **Herramientas:** Git, Visual Code, Figma, Adobe XD, Adobe Illustrador, Docker, Unity, Unreal Engine, Blender
-- **Plataformas:** Firebase, AWS, Azure
+- **Plataformas:** Firebase, AWS, Azure, Ubuntu Server
